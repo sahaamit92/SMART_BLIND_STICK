@@ -1,7 +1,3 @@
-//https://www.youtube.com/watch?v=PWCAMvCIliA  -- ultrasonic
-//https://www.youtube.com/watch?v=SkGmtsA69ts  -- ldr
-
-
 
 #define ledPin1 7
 #define trigPin 8
